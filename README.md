@@ -1,6 +1,11 @@
 Test out my vpn by installing client side OpenVPN App 
 
-<a href = "https://openvpn.net/community-downloads/">Download OpenVPN<a>
+<a href = "https://openvpn.net/community-downloads/">Download OpenVPN</a> 
+
+Download the config file <a href = "https://github.com/arifansari10027/privateVPN/blob/1a4e1426c4caf1a88c76beeef9ad3e87650d50dd/profile-userlocked-test.ovpn">Click here</a>
+
+This will automatically setup your custom made VPN which I have made 
+
 
 <br><br>
 
